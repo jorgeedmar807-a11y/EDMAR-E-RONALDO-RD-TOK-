@@ -1,0 +1,6 @@
+{
+  "name": "EDMAR E RONALDO TOK",
+  "description": "A rede social ultra premium de vídeos curtos de Angola e do mundo — A tua diversão não tem limites!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
